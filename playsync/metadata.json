@@ -1,6 +1,0 @@
-{
-  "name": "PlaySync — 3D Cloud Party Arena",
-  "description": "Android-ready 3D cloud party arena and haptic mobile gamepad console with isolated multiplayer lobbies.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
